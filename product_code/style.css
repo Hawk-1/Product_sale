@@ -22,3 +22,22 @@ body
     box-shadow: 0 0 20px rgba(0,0, 0, 45);
 
 }
+.card-tag
+{
+    background-color: rgba(179, 75, 248 ,0.3);
+    padding: 10px 10px;
+    border-radius: 5px;
+    
+
+
+}
+.card-header
+{
+    padding: 30px 50px;
+    text-align: center;
+}
+
+.card-header img
+{
+    
+}
