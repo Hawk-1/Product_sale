@@ -70,5 +70,25 @@ body
 {
     padding: 10px 30px;
     font-family: inherit;
-    
+    border-radius: 10px;
+    font-size: 20px;
+    width: 40%;
+    cursor: pointer;
+   
+}
+.btn-pri 
+{
+    background-color: #f80606;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+}
+.btn-sec
+{
+    background-color: #f80606;
+    color: aqua;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
 }
