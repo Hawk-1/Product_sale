@@ -27,6 +27,9 @@ body
     background-color: rgba(179, 75, 248 ,0.3);
     padding: 10px 10px;
     border-radius: 5px;
+    text-align: center;
+    
+  
     
 
 
@@ -46,12 +49,14 @@ body
     font-size: 50px;
     text-align: center;
     font-weight: 2000;
+    
 }
 .shipping
 {
     font-size: 30px;
-    color: red;
+    color: rgb(55, 128, 33);
     display: inline;
+    
 
 }
 .price
@@ -78,17 +83,23 @@ body
 }
 .btn-pri 
 {
-    background-color: #f80606;
-    color: #fff;
+    background-color: #06d4f8;
+    color: rgb(2, 2, 2);
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.btn-sec
+{
+    background-color: #f89706;
+    color: rgb(3, 3, 3);
     cursor: pointer;
     padding: 10px;
     border-radius: 10px;
 }
-.btn-sec
+.footer
 {
-    background-color: #f80606;
-    color: aqua;
-    cursor: pointer;
-    padding: 10px;
-    border-radius: 10px;
+    margin-right: 25px;
 }
